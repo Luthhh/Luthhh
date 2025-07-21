@@ -8,7 +8,6 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **Website Bengkel & Inventaris Gudang**
 - 🌱 I’m currently learning **Laravel, REST API, and MongoDB**
 - 💬 Ask me about **Backend Development & System Design**
 - 📫 Reach me at **luthfidika31@gmail.com**
