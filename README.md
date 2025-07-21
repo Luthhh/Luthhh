@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Website Bengkel & Inventaris Gudang**
 - 🌱 I’m currently learning **Laravel, REST API, and MongoDB**
 - 💬 Ask me about **Backend Development & System Design**
-- 📫 Reach me at **luthfidika@example.com**
+- 📫 Reach me at **luthfidika31@gmail.com**
 - ⚡ Fun fact: I love running and learning cloud stuff ☁️
 
 ---
@@ -31,24 +31,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luthhh&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luthhh&theme=radical" width="45%"/>
 </p>
+
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/luthfidika"><img src="https://img.shields.io/badge/-Luthfi%20Dika-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:luthfidika@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/luthfidika"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/luthfi-dika-chandra"><img src="https://img.shields.io/badge/-Luthfi%20Dika-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:luthfidika31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/lutchandra"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔥 Recent Projects
-- 🚘 **[Sistem Booking Bengkel Motor](https://github.com/luthfidika/bengkel-motor)**
-- 🧾 **[CV Generator Web App](https://github.com/luthfidika/cv-generator)**  
-- 📦 **[Warehouse Inventory App](https://github.com/luthfidika/inventaris-gudang)**  
 
----
