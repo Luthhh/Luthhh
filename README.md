@@ -1,66 +1,62 @@
-<h1 align="center">Hi there 👋, I'm Luthfi Dika Chandra</h1>
-<h3 align="center">🚀 Software Engineering Student | Backend Developer | Tech Explorer</h3>
+<h1 align="center">Hi there 👋, I'm Luthfi Dika</h1>
+<h3 align="center">🚀 Passionate about Web Development | Backend Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Final+Year+Student+at+IPB+University;Backend+Dev+Enthusiast+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Always+Building%2C+Learning+and+Contributing!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I+love+Laravel+and+MySQL;Always+Learning+Something+New...&center=true&width=380&height=45">
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Final Year D4 Software Engineering Student at **IPB University**
-- 💼 Interned at **Kantor Imigrasi Kelas I Bogor**
-- 🔧 Strong interest in backend development, cloud infrastructure & scalable systems
-- 🛠 Currently exploring **microservices**, **NoSQL**, and **DevOps**
-- 🌐 Building real-world apps using **Laravel**, **Node.js**, and **RESTful APIs**
-- 📍 Based in Bogor, Indonesia
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on **Website Bengkel & Inventaris Gudang**
+- 🌱 I’m currently learning **Laravel, REST API, and MongoDB**
+- 💬 Ask me about **Backend Development & System Design**
+- 📫 Reach me at **luthfidika@example.com**
+- ⚡ Fun fact: I love running and learning cloud stuff ☁️
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+### 🚀 Tech Stack
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luthhh&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luthhh&theme=radical" width="45%"/>
-</p>
-
----
-
-### 🏆 Achievements
-- 🥇 1st Place - **Web Development Competition**, FIPACT Cup 2024
-- 🥈 2nd Place - **UI/UX Design**, FESTEK 2024
-- 💡 Participant - Micro IT **Webmaster Training**
-
----
-
-### 📫 Let's Connect!
-<p>
-  <a href="https://www.linkedin.com/in/luthfi-dika-chandra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lutchandra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:lutchandra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luthhh&label=Profile+Views" alt="profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luthfidika&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=luthfidika&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfidika&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/luthfidika"><img src="https://img.shields.io/badge/-Luthfi%20Dika-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:luthfidika@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/luthfidika"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 🔥 Recent Projects
+- 🚘 **[Sistem Booking Bengkel Motor](https://github.com/luthfidika/bengkel-motor)**
+- 🧾 **[CV Generator Web App](https://github.com/luthfidika/cv-generator)**  
+- 📦 **[Warehouse Inventory App](https://github.com/luthfidika/inventaris-gudang)**  
+
+---
