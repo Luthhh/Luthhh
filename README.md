@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
